@@ -1,1 +1,5 @@
-Nobita
+hello Abitha
+int a,b;
+cout<<a<<b;
+cin>>a>>b;
+cout<<(a+b);
